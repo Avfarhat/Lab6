@@ -1,4 +1,4 @@
 WEB BROWSER		CAR BRANDS 		OS
 chrome		ford			android
-edge			gm 			
+edge			gm 			tizen
 safari		toyota		ios
